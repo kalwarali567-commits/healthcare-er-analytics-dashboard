@@ -1,0 +1,16 @@
+visit_id,patient_age,gender,department,admission_type,wait_time_min,doctor_assigned,diagnosis,payment_status,bill_amount,insurance_provider,visit_shift,patient_satisfaction,admitted
+1001,45,Male,Emergency,Urgent,72,Dr. Ahmed,Chest Pain,Paid,54000,StateLife,Night,3,Yes
+1002,29,Female,Cardiology,Walk-in,18,Dr. Sana,Hypertension,Pending,12000,Jubilee,Morning,8,No
+1003,61,Male,Emergency,Emergency,95,Dr. Khan,Stroke,Pending,87000,StateLife,Night,2,Yes
+1004,34,Female,Orthopedics,Walk-in,25,Dr. Ali,Fracture,Paid,24000,EFU,Evening,7,No
+1005,50,Male,Emergency,Urgent,65,Dr. Ahmed,Heart Attack,Pending,92000,Jubilee,Night,1,Yes
+1006,22,Female,General Medicine,Walk-in,12,Dr. Sana,Fever,Paid,5000,None,Morning,9,No
+1007,73,Male,Neurology,Emergency,88,Dr. Khan,Seizure,Pending,76000,EFU,Night,3,Yes
+1008,41,Female,Emergency,Urgent,58,Dr. Ahmed,Asthma,Paid,18000,StateLife,Evening,6,No
+1009,37,Male,Cardiology,Walk-in,20,Dr. Sana,Chest Pain,Paid,15000,None,Morning,8,No
+1010,66,Female,Emergency,Emergency,102,Dr. Khan,Stroke,Pending,98000,Jubilee,Night,1,Yes
+1011,31,Male,General Medicine,Walk-in,15,Dr. Ali,Fever,Paid,4500,None,Morning,9,No
+1012,55,Female,Emergency,Urgent,74,Dr. Ahmed,Heart Attack,Pending,86000,StateLife,Night,2,Yes
+1013,47,Male,Orthopedics,Walk-in,28,Dr. Ali,Back Pain,Paid,11000,EFU,Evening,7,No
+1014,39,Female,Emergency,Urgent,61,Dr. Khan,Asthma,Pending,17000,Jubilee,Evening,4,No
+1015,27,Male,General Medicine,Walk-in,10,Dr. Sana,Flu,Paid,3500,None,Morning,10,No
