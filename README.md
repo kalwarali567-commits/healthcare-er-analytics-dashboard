@@ -4,23 +4,21 @@
 This project analyzes hospital emergency room data to identify operational inefficiencies, patient satisfaction trends, admission patterns, and financial risks. The analysis was performed using SQL and Power BI to support healthcare management decision-making.
 
 
-healthcare-er-analytics-dashboard/
-│
-├── dataset/
-│   └── hospital_er_visits.csv
-│
-├── sql/
-│   ├── table_creation.sql
-│   ├── analysis_queries.sql
-│   └── views.sql
-│
-├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── revenue_analysis.png
-│   ├── patient_satisfaction.png
-│   └── wait_time_analysis.png
-│
-└── README.md
+healthcare-er-analytics-dashboard
+
+dataset
+ hospital_er_visits.csv
+ sql
+ table_creation.sql
+ analysis_queries.sql
+ views.sql
+ screenshots
+ dashboard_overview.png
+ revenue_analysis.png
+ patient_satisfaction.png
+wait_time_analysis.png
+
+ README.md
 ---
 ---
 
@@ -116,5 +114,5 @@ The Power BI dashboard includes:
 
 ## Project Outcome
 This project demonstrates practical healthcare analytics skills by transforming raw hospital data into actionable business insights for healthcare management.
-This project demonstrates practical healthcare analytics skills by transforming raw hospital data into actionable business insights for healthcare management.
+
 
